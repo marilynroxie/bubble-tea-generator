@@ -17,4 +17,7 @@ Special thanks to all of the delicious bubble tea shops and menus I've perused i
 https://marilynroxie.github.io/bubble-tea-generator/
 <br>
 </br>
+https://twitter.com/bubble_teabot
+<br>
+</br>
 Feel free to use the code or JSON data however you see fit.
